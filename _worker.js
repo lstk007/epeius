@@ -1,8 +1,8 @@
 
 import { connect } from "cloudflare:sockets";
 
-let password = '';
-let proxyIP = '';
+let password = 'tn';
+let proxyIP = 'ProxyIP.US.CMLiussss.net';
 let DNS64Server = '';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
@@ -27,7 +27,7 @@ let addressesapi = [];
 let addressescsv = [];
 let DLS = 8;
 let remarkIndex = 1;//CSV备注所在列偏移量
-let FileName = 'epeius';
+let FileName = 'TN';
 let BotToken = '';
 let ChatID = '';
 let proxyhosts = [];
